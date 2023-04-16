@@ -5,6 +5,5 @@ import future.keywords.if
 set_annotations = [
 {
 	"key": "power",
-	"value": "on",
-	"value": "off"
+	"value": "on"
 }]
