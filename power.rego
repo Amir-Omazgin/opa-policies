@@ -7,4 +7,4 @@ set_annotations = [
 	"key": "power",
 	"value": "on"
 }]
-set_annotations[0]["value"] = "off"
+
