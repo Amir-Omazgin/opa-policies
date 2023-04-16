@@ -6,7 +6,5 @@ set_annotations = [
 {
 	"key": "power",
 	"value": "off",
-	
-	"key": "power",
 	"value": "on"
 }]
